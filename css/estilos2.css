@@ -1,0 +1,38 @@
+p { color: black; font-family: Verdana; }
+
+#contenedor{
+     background-color:#daebf3;
+	border:2px solid #FF0000;
+	width:1000px;
+	margin:0px auto;
+}
+
+#cabecera{
+        background-color:#E5BC7A;
+        height:20%;
+}
+
+#menu{
+        height:10%;
+        background-color:#C8CACC;
+}
+
+#izquierda{
+        height:50%;
+        background-color:#BDD2EF;
+        float:left;
+        width:50%;
+}
+
+#derecha{
+        height:50%;
+        background-color:#DAF7E2;
+        float:right;
+        width:50%;
+}
+
+#pie{
+        height:20%;
+        background-color:#D3D1C1;
+        clear:both;
+}
